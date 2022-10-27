@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Raleway;
+    src: url("/Fonts/Raleway-Regular.ttf");
+  }
+
+  @font-face {
+    font-family: Raleway-Bold;
+    src: url("/Fonts/Raleway-Bold.ttf");
+  }
+
+  @font-face {
+    font-family: Raleway-Italic;
+    src: url("/Fonts/Raleway-Italic.ttf");
+  }
+
+  @font-face {
+    font-family: LibreFranklin-Thin;
+    src: url("/Fonts/LibreFranklin-Thin.ttf");
+  }
+
+  @font-face {
+    font-family: LibreFranklin-Bold;
+    src: url("/Fonts/LibreFranklin-Bold.ttf");
+  }
+
+  @font-face {
+    font-family: LibreFranklin-Regular;
+    src: url("/Fonts/LibreFranklin-Regular.ttf");
+  }
